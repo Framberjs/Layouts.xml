@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html b:css='false' b:defaultwidgetversion='2' b:js='false' b:layoutsVersion='3' b:responsive='true' expr:dir='data:blog.locale.languageDirection' expr:lang='data:blog.locale.language'>
 
-<!-- krono-base.xml v1.2.0 | frambersilva.com/p/desarollo-html -->
+<!-- Layouts.xml v1.0 | github.com/Framberjs/Layouts.xml -->
 
 <head>
 <!-- Metatags-seo -->
@@ -16,8 +16,8 @@
 
 <!-- Theme-color -->
 <b:if cond='data:widgets'>
-	<meta expr:content='data:skin.vars.body_background_color' name='theme-color'/>
-	<meta expr:content='data:skin.vars.body_background_color' name='msapplication-navbutton-color'/>
+<meta expr:content='data:skin.vars.body_background_color' name='theme-color'/>
+<meta expr:content='data:skin.vars.body_background_color' name='msapplication-navbutton-color'/>
 </b:if>
 
 <!-- App name -->
